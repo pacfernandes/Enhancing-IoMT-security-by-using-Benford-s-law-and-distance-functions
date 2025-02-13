@@ -5,7 +5,8 @@ This study explores the application of Benford's Law and distance functions to e
 
 + Séamus Ó Ciardhuáin - Department of Computer Engineering; Technological University of the Shannon; Limerick, Ireland; seamus.ociardhuain@tus.ie
 
-+ Mário Antunes - Computer Science and Communication Research Centre (CIIC), School of Technology and Management, Polytechnic of Leiria; Leiria; Portugal; mario.antunes@ipleiria.pt INESC TEC, CRACS; Porto; Portugal
++ Mário Antunes - Computer Science and Communication Research Centre (CIIC), School of Technology and Management, Polytechnic of Leiria; Leiria; Portugal; mario.antunes@ipleiria.pt
++ INESC TEC, CRACS; Porto; Portugal
 
 #### Method based on the application of Benford's Law combined with distance functions for detecting anomalous patterns in IoT devices.
 
@@ -17,7 +18,7 @@ This methodology offers a robust approach, combining statistics and distance ana
 
 ### IoT Dataset – University of New Brunswick (UNB)
 
-This dataset was obtained from the **UNB (University of New Brunswick)** website and is available at: [https://www.unb.ca/cic/datasets/ids-2017.html](www.unb.ca/cic/datasets/iomt-dataset-2024.html).
+This dataset was obtained from the **UNB (University of New Brunswick)** website and is available at: [https://www.unb.ca/cic/datasets/ids-2017.html](https://www.unb.ca/cic/datasets/iomt-dataset-2024.html). 
 
 #### 📝 **Summary:**
 The dataset covers various attacks targeting WiFi-enabled IoMT devices and simulated MQTT devices, grouped into four main categories:
