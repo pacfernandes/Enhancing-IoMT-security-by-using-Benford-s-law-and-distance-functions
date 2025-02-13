@@ -36,12 +36,12 @@ The attacks simulate real-world scenarios, varying in the number of flows per ty
 To test the model with this dataset, please contact:  
 **Pedro.Fernandes@tus.ie**
 
-# General architecture 
+### General architecture 
 
 The pre-processing and processing phases are outlined below.
 
-![General architecture](first.png)
 ![General architecture](second.png)
+![General architecture1](first.png)
 
 ### Preprocessing and Processing Phase
 
