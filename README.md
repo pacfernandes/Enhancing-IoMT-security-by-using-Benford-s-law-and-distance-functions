@@ -38,7 +38,7 @@ To test the model with this dataset, please contact:
 
 # General architecture 
 
-![General architecture](Arquitetura_geral.jpg) 
+![General architecture](GeneralArq.png) 
 
 ### Preprocessing and Processing Phase
 
