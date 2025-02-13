@@ -40,7 +40,7 @@ To test the model with this dataset, please contact:
 
 The pre-processing and processing phases are outlined below.
 
-![General architecture](./second.png)
+![General architecture](./Second.png)
 
 ![Alternative architecture](./first.png)
 
